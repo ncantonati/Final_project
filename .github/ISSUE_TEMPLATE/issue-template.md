@@ -1,13 +1,4 @@
 ---
-name: Issue template
-about: A template to describe stories more detailed.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: User Story
 about: This template is for creating user stories
 title: ''
